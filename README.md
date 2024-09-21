@@ -15,7 +15,6 @@ Ce projet réalise la classification de textes arabes dans les catégories suiva
   - NumPy
   - Pandas
   - Matplotlib
-  - 
 #**Installations Nécessaires :**
 ```
 pip install numpy pandas matplotlib tensorflow lime
