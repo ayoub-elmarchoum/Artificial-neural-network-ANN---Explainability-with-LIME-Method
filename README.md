@@ -1,0 +1,2 @@
+# Artificial-neural-network-ANN---Explainability-with-LIME-Method
+This project uses Artificial Neural Networks (ANN) to classify Arabic texts into the categories: 'اقتصاد', 'سياسة', 'صحة'. While ANN captures complex relationships, its predictions can be opaque. The LIME method is integrated to provide local explanations for individual predictions, clarifying how features influence the ANN's decisions.
